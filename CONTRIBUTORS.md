@@ -21,4 +21,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
-
+**Natalie Bojorquez** (GitHub: Natalie-Bojorquez): My favorite movie is Howl's Moving Castle. 
