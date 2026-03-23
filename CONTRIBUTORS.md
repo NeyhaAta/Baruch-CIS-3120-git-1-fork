@@ -22,3 +22,5 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
 
+**Neyha Ata** (GitHub: NeyhaAta): My favorite movie is The Conjuring. 
+
